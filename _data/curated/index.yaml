@@ -5,4 +5,10 @@
   url: http://blog.factual.com
   domain: blog.factual.com
   image: ""
+- curated_id: d77ca7556689c421b43aefcbf43a134e
+  item_date: "2016-10-17 00:00:00"
+  title: 'Introducing Veneur: high performance and global aggregation for Datadog'
+  url: https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog
+  domain: stripe.com
+  image: ""
 ...
