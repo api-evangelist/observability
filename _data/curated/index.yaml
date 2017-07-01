@@ -5,28 +5,42 @@
   url: https://tune.com/blog/startups-need-api/
   domain: tune.com
   image: ""
-- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15c137b684a:2149eae:9eb87abf
-  item_date: "2017-05-16 15:57:51"
-  title: A Comparison of Mapping Approaches for Distributed Cloud Applications
-  url: https://medium.com/p/52be1f61d293
-  domain: medium.com
+- curated_id: d77ca7556689c421b43aefcbf43a134e
+  item_date: "2016-10-17 00:00:00"
+  title: 'Introducing Veneur: high performance and global aggregation for Datadog'
+  url: https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog
+  domain: stripe.com
   image: ""
-- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15c3234bc70:1ad8624:1980c846
-  item_date: "2017-05-22 15:08:46"
-  title: Dev or Ops, Observability is Crucial
-  url: https://thenewstack.io/?p=2381689
-  domain: thenewstack.io
+- curated_id: 3b3a345f96192f0a989577c6280352d3
+  item_date: "2017-01-11 00:00:00"
+  title: Improving Visibility in Security Operations with Search-Driven Lookups
+  url: http://blogs.splunk.com/2017/01/11/improving-visibility-in-security-operations-with-search-driven-lookups/
+  domain: blogs.splunk.com
   image: ""
-- curated_id: +iHpcF+MVmzqHdkw+fLKtN8U+Gs5PfZG9PfuVqz3Jqk=_15c9d100554:289c8ae:28ce9b86
-  item_date: "2017-06-12 09:00:05"
-  title: Telecoms Take On Network Analytics & Visibility
-  url: http://www.kentik.com/?p=6990
-  domain: www.kentik.com
+- curated_id: e487f962575a20587dcceef6919790f4
+  item_date: "2017-02-09 00:00:00"
+  title: The TSA knows its screening methods are unscientific and unreliable, says
+    ACLU report
+  url: http://www.theverge.com/2017/2/9/14558298/tsa-screening-unscientific-unreliable-aclu-report
+  domain: www.theverge.com
   image: ""
-- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15ce644c9f0:32815ca:5b78a817
-  item_date: "2017-06-26 14:10:00"
-  title: "Facebook won\u2019t release data on political ads to researchers"
-  url: https://www.engadget.com/2017/06/26/facebook-data-political-ads-researchers/
-  domain: www.engadget.com
+- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
+  item_date: "2017-02-09 00:00:00"
+  title: 'State of open company data in 2016: wins and challenges ahead'
+  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
+  domain: blog.opencorporates.com
+  image: ""
+- curated_id: 4aa677a0a8d9d57cece4003e86e665e4
+  item_date: "2017-03-18 22:40:54"
+  title: Observability
+  url: http://onemogin.com/observability/
+  domain: onemogin.com
+  image: ""
+- curated_id: 255d1a7ba950e2295265ab72832540b9
+  item_date: "2017-04-06 12:57:28"
+  title: "Uber said to use \u201Csophisticated\u201D software to defraud drivers,
+    passengers"
+  url: https://arstechnica.com/tech-policy/2017/04/uber-said-to-use-sophisticated-software-to-defraud-drivers-passengers/
+  domain: arstechnica.com
   image: ""
 ...
