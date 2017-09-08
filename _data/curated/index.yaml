@@ -11,18 +11,18 @@
   url: http://blogs.splunk.com/2017/01/11/improving-visibility-in-security-operations-with-search-driven-lookups/
   domain: blogs.splunk.com
   image: ""
-- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
-  item_date: "2017-02-09 00:00:00"
-  title: 'State of open company data in 2016: wins and challenges ahead'
-  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
-  domain: blog.opencorporates.com
-  image: ""
 - curated_id: e487f962575a20587dcceef6919790f4
   item_date: "2017-02-09 00:00:00"
   title: The TSA knows its screening methods are unscientific and unreliable, says
     ACLU report
   url: http://www.theverge.com/2017/2/9/14558298/tsa-screening-unscientific-unreliable-aclu-report
   domain: www.theverge.com
+  image: ""
+- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
+  item_date: "2017-02-09 00:00:00"
+  title: 'State of open company data in 2016: wins and challenges ahead'
+  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
+  domain: blog.opencorporates.com
   image: ""
 - curated_id: 4aa677a0a8d9d57cece4003e86e665e4
   item_date: "2017-03-18 22:40:54"
@@ -132,5 +132,30 @@
   title: "Ads.txt \u2013 Authorized Digital Sellers \u2013 IAB Tech Lab"
   url: https://iabtechlab.com/ads-txt/
   domain: iabtechlab.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15dcdaa0eff:3931db3:ce556ce1
+  item_date: "2017-08-10 12:37:46"
+  title: How to Create a Server Overview Dashboard in New Relic Insights
+  url: http://blog.newrelic.com/?p=38352
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: b4xX282kQ9FAxkxcTTl6litd4bsIad1WXC3AOIleGAM=_15dd33a576c:4173e32:ce556ce1
+  item_date: "2017-08-11 14:19:57"
+  title: 'OpenShift Commons Briefing #90: Network Visibility and Runtime Security
+    for OpenShift and Kubernetes'
+  url: https://blog.openshift.com/?p=13216
+  domain: blog.openshift.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15dd92545cd:5f5a24:b8b2a437
+  item_date: "2017-08-12 18:09:52"
+  title: "Can Government Keep Up with Artificial Intelligence? \u2014 NOVA Next"
+  url: http://www.pbs.org/wgbh/nova/next/tech/ai-government-policy/
+  domain: www.pbs.org
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15deb2afe49:46d75c:9cc60c90
+  item_date: "2017-08-16 06:00:00"
+  title: Cloud Complexity Mandates Security Visibility
+  url: https://www.darkreading.com/partner-perspectives/evidentio/cloud-complexity-mandates-security-visibility/a/d-id/1329637
+  domain: www.darkreading.com
   image: ""
 ...
