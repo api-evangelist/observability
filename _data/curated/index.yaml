@@ -11,18 +11,18 @@
   url: http://blogs.splunk.com/2017/01/11/improving-visibility-in-security-operations-with-search-driven-lookups/
   domain: blogs.splunk.com
   image: ""
+- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
+  item_date: "2017-02-09 00:00:00"
+  title: 'State of open company data in 2016: wins and challenges ahead'
+  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
+  domain: blog.opencorporates.com
+  image: ""
 - curated_id: e487f962575a20587dcceef6919790f4
   item_date: "2017-02-09 00:00:00"
   title: The TSA knows its screening methods are unscientific and unreliable, says
     ACLU report
   url: http://www.theverge.com/2017/2/9/14558298/tsa-screening-unscientific-unreliable-aclu-report
   domain: www.theverge.com
-  image: ""
-- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
-  item_date: "2017-02-09 00:00:00"
-  title: 'State of open company data in 2016: wins and challenges ahead'
-  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
-  domain: blog.opencorporates.com
   image: ""
 - curated_id: 4aa677a0a8d9d57cece4003e86e665e4
   item_date: "2017-03-18 22:40:54"
@@ -163,5 +163,18 @@
   title: A Field Guide to Observability
   url: https://honeycomb.io/blog/2017/09/a-field-guide-to-observability/
   domain: honeycomb.io
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15ea64316d3:4a7064:c84bd0de
+  item_date: "2017-09-21 13:45:24"
+  title: We're soon going to know a lot more about how politicians use Facebook to
+    advertise, which could impact their digital ad tactics (FB)
+  url: http://www.businessinsider.com/new-facebook-ad-policy-will-reveal-more-on-how-politicians-use-facebook-to-advertise-2017-9?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_15ea6917888:698f0c:55eae650
+  item_date: "2017-09-21 15:28:51"
+  title: Mark Zuckerberg's refusal to make Russia
+  url: http://mashable.com/?p=bp-57614
+  domain: mashable.com
   image: ""
 ...
