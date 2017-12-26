@@ -11,18 +11,18 @@
   url: http://blogs.splunk.com/2017/01/11/improving-visibility-in-security-operations-with-search-driven-lookups/
   domain: blogs.splunk.com
   image: ""
-- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
-  item_date: "2017-02-09 00:00:00"
-  title: 'State of open company data in 2016: wins and challenges ahead'
-  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
-  domain: blog.opencorporates.com
-  image: ""
 - curated_id: e487f962575a20587dcceef6919790f4
   item_date: "2017-02-09 00:00:00"
   title: The TSA knows its screening methods are unscientific and unreliable, says
     ACLU report
   url: http://www.theverge.com/2017/2/9/14558298/tsa-screening-unscientific-unreliable-aclu-report
   domain: www.theverge.com
+  image: ""
+- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
+  item_date: "2017-02-09 00:00:00"
+  title: 'State of open company data in 2016: wins and challenges ahead'
+  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
+  domain: blog.opencorporates.com
   image: ""
 - curated_id: 4aa677a0a8d9d57cece4003e86e665e4
   item_date: "2017-03-18 22:40:54"
@@ -231,5 +231,23 @@
   title: "New York City\u2019s open data audit is a promising model for accountability"
   url: http://sunlightfoundation.com/?p=106934
   domain: sunlightfoundation.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160639add58:8ad325:3c0bb656
+  item_date: "2017-12-16 22:01:02"
+  title: Monitoring and Observability
+  url: https://dzone.com/articles/1903662
+  domain: dzone.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_1607024a75b:1d08259:3c0bb656
+  item_date: "2017-12-19 10:52:43"
+  title: New York City moves to create accountability for algorithms
+  url: http://thegovlab.org/?p=22179
+  domain: thegovlab.org
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_16079bc9dcf:e5381e:541f3c40
+  item_date: "2017-12-21 07:30:00"
+  title: Why Network Visibility Is Critical to Removing Security Blind Spots
+  url: https://www.darkreading.com/perimeter/why-network-visibility-is-critical-to-removing-security-blind-spots-/a/d-id/1330686
+  domain: www.darkreading.com
   image: ""
 ...
