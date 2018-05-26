@@ -11,18 +11,18 @@
   url: http://blogs.splunk.com/2017/01/11/improving-visibility-in-security-operations-with-search-driven-lookups/
   domain: blogs.splunk.com
   image: ""
-- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
-  item_date: "2017-02-09 00:00:00"
-  title: 'State of open company data in 2016: wins and challenges ahead'
-  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
-  domain: blog.opencorporates.com
-  image: ""
 - curated_id: e487f962575a20587dcceef6919790f4
   item_date: "2017-02-09 00:00:00"
   title: The TSA knows its screening methods are unscientific and unreliable, says
     ACLU report
   url: http://www.theverge.com/2017/2/9/14558298/tsa-screening-unscientific-unreliable-aclu-report
   domain: www.theverge.com
+  image: ""
+- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
+  item_date: "2017-02-09 00:00:00"
+  title: 'State of open company data in 2016: wins and challenges ahead'
+  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
+  domain: blog.opencorporates.com
   image: ""
 - curated_id: 4aa677a0a8d9d57cece4003e86e665e4
   item_date: "2017-03-18 22:40:54"
@@ -273,5 +273,49 @@
   title: 'Guest View: Move fast and fix things: It''s time for an API audit'
   url: https://sdtimes.com/api/move-fast-and-fix-things-its-time-for-an-api-audit/
   domain: sdtimes.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_1639353d4c4:7dbed40:3dd877af
+  item_date: "2018-05-24 11:00:02"
+  title: Facebook disclosure requirements for political ads take effect in the United
+    States today
+  url: https://www.theverge.com/2018/5/24/17389834/facebook-political-ad-disclosures-united-states-transparency
+  domain: www.theverge.com
+  image: ""
+- curated_id: /5MAViYZiTpncQvEKcTV5Uedkm2Ey6yRzXULD2bLaXM=_1639351a198:7dbb8f3:3dd877af
+  item_date: "2018-05-24 11:00:09"
+  title: Shining a Light on Ads With Political Content
+  url: http://newsroom.fb.com/?p=11217
+  domain: newsroom.fb.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1639350609e:610e03:abeb7260
+  item_date: "2018-05-24 11:01:20"
+  title: Facebook and Instagram launch US political ad labeling and archive
+  url: https://techcrunch.com/?p=1645522
+  domain: techcrunch.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_163937bde6f:66a8d1:f3bf0074
+  item_date: "2018-05-24 11:47:53"
+  title: Facebook and Instagram crack down on shady political ads
+  url: https://mashable.com/?p=bp-74997
+  domain: mashable.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1639382fd87:81dc2a4:2835af05
+  item_date: "2018-05-24 11:56:19"
+  title: 'Cheatsheet: What Facebook and Twitter changed about political advertising'
+  url: https://digiday.com/marketing/cheatsheet-facebook-twitter-changed-political-advertising/
+  domain: digiday.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_16393a136f2:7e41572:3dd877af
+  item_date: "2018-05-24 12:01:53"
+  title: Facebook and Twitter are cracking down on political ads with new requirements
+    and labels (TWTR, FB)
+  url: http://www.businessinsider.com/facebook-twitter-crack-down-on-political-ads-new-requirements-labels-2018-5?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_16393d29dc9:7e8f89c:3dd877af
+  item_date: "2018-05-24 13:14:00"
+  title: Twitter initiates its new campaign ad policy
+  url: https://www.engadget.com/2018/05/24/twitter-initiate-new-campaign-ad-policy/
+  domain: www.engadget.com
   image: ""
 ...
