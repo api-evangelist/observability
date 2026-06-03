@@ -1,0 +1,120 @@
+meta:
+  name: Observability
+  description: A curated index of services, tooling, and open source solutions for
+    API observability, monitoring, logging, tracing, metrics, and analytics. This
+    collection covers APM platforms, distributed tracing, log aggregation, API-specific
+    monitoring, uptime and status pages, error tracking, and metrics visualization.
+  tags:
+  - Logging
+  - Monitoring
+  - Observability
+  - Tracing
+  portal: null
+  github: null
+  repo: observability
+services_tools:
+- name: AppDynamics
+  repo: https://github.com/api-evangelist/appdynamics
+  apisio: https://providers.apis.io/providers/appdynamics/
+- name: Assertible
+  repo: https://github.com/api-evangelist/assertible
+  apisio: https://providers.apis.io/providers/assertible/
+- name: Axiom
+  repo: https://github.com/api-evangelist/axiom
+  apisio: https://providers.apis.io/providers/axiom/
+- name: Better Stack
+  repo: https://github.com/api-evangelist/betterstack
+  apisio: https://providers.apis.io/providers/betterstack/
+- name: Bugsnag
+  repo: https://github.com/api-evangelist/bugsnag
+  apisio: https://providers.apis.io/providers/bugsnag/
+- name: Checkly
+  repo: https://github.com/api-evangelist/checkly
+  apisio: https://providers.apis.io/providers/checkly/
+- name: Datadog
+  repo: https://github.com/api-evangelist/datadog
+  apisio: https://providers.apis.io/providers/datadog/
+- name: Dynatrace
+  repo: https://github.com/api-evangelist/dynatrace
+  apisio: https://providers.apis.io/providers/dynatrace/
+- name: Elastic
+  repo: https://github.com/api-evangelist/elastic
+  apisio: https://providers.apis.io/providers/elastic/
+- name: Elasticsearch
+  repo: https://github.com/api-evangelist/elasticsearch
+  apisio: https://providers.apis.io/providers/elasticsearch/
+- name: Fluent Bit
+  repo: https://github.com/api-evangelist/fluent-bit
+  apisio: https://providers.apis.io/providers/fluent-bit/
+- name: Fluentd
+  repo: https://github.com/api-evangelist/fluentd
+  apisio: https://providers.apis.io/providers/fluentd/
+- name: Grafana
+  repo: https://github.com/api-evangelist/grafana
+  apisio: https://providers.apis.io/providers/grafana/
+- name: Graylog
+  repo: https://github.com/api-evangelist/graylog
+  apisio: https://providers.apis.io/providers/graylog/
+- name: Honeycomb
+  repo: https://github.com/api-evangelist/honeycomb
+  apisio: https://providers.apis.io/providers/honeycomb/
+- name: Jaeger
+  repo: https://github.com/api-evangelist/jaeger
+  apisio: https://providers.apis.io/providers/jaeger/
+- name: Kibana
+  repo: https://github.com/api-evangelist/kibana
+  apisio: https://providers.apis.io/providers/kibana/
+- name: Logstash
+  repo: https://github.com/api-evangelist/logstash
+  apisio: https://providers.apis.io/providers/logstash/
+- name: Loki
+  repo: https://github.com/api-evangelist/loki
+  apisio: https://providers.apis.io/providers/loki/
+- name: Moesif
+  repo: https://github.com/api-evangelist/moesif
+  apisio: https://providers.apis.io/providers/moesif/
+- name: New Relic
+  repo: https://github.com/api-evangelist/new-relic
+  apisio: https://providers.apis.io/providers/new-relic/
+- name: OneUptime
+  repo: https://github.com/api-evangelist/oneuptime
+  apisio: https://providers.apis.io/providers/oneuptime/
+- name: OpenObserve
+  repo: https://github.com/api-evangelist/openobserve
+  apisio: https://providers.apis.io/providers/openobserve/
+- name: OpenTelemetry
+  repo: https://github.com/api-evangelist/opentelemetry
+  apisio: https://providers.apis.io/providers/opentelemetry/
+- name: Prometheus
+  repo: https://github.com/api-evangelist/prometheus
+  apisio: https://providers.apis.io/providers/prometheus/
+- name: Rollbar
+  repo: https://github.com/api-evangelist/rollbar
+  apisio: https://providers.apis.io/providers/rollbar/
+- name: Sentry
+  repo: https://github.com/api-evangelist/sentry
+  apisio: https://providers.apis.io/providers/sentry/
+- name: SigNoz
+  repo: https://github.com/api-evangelist/signoz
+  apisio: https://providers.apis.io/providers/signoz/
+- name: Splunk
+  repo: https://github.com/api-evangelist/splunk
+  apisio: https://providers.apis.io/providers/splunk/
+- name: Tempo
+  repo: https://github.com/api-evangelist/tempo
+  apisio: https://providers.apis.io/providers/tempo/
+- name: Treblle
+  repo: https://github.com/api-evangelist/treblle
+  apisio: https://providers.apis.io/providers/treblle/
+- name: Uptrace
+  repo: https://github.com/api-evangelist/uptrace
+  apisio: https://providers.apis.io/providers/uptrace/
+- name: Vector
+  repo: https://github.com/api-evangelist/vector
+  apisio: https://providers.apis.io/providers/vector/
+- name: Zipkin
+  repo: https://github.com/api-evangelist/zipkin
+  apisio: https://providers.apis.io/providers/zipkin/
+features: []
+use_cases: []
+integrations: []

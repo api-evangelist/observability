@@ -1,0 +1,19 @@
+title: Observability
+description: A curated index of services, tooling, and open source solutions for API
+  observability, monitoring, logging, tracing, metrics, and analytics. This collection
+  covers APM platforms, distributed tracing, log aggregation, API-specific monitoring,
+  uptime and status pages, error tracking, and metrics visualization.
+url: https://observability.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
