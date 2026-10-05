@@ -1,5 +1,6 @@
 aid: observability
 name: Observability
+kind: topic
 description: >-
   A curated index of services, tooling, and open source solutions for API
   observability, monitoring, logging, tracing, metrics, and analytics. This
